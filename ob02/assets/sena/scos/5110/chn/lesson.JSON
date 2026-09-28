@@ -1,0 +1,2497 @@
+{
+    "labs": [
+        {
+            "stimuli": [
+                {
+                    "contents": [
+                        {
+
+                        }
+                    ],
+                    "template_override": 1,
+                    "type": "welcome",
+                    "_data": [
+
+                    ],
+                    "id": 0
+                },
+                {
+                    "template_override": 1,
+                    "title": "",
+                    "id": 1,
+                    "contents": [
+                        {
+                            "value": {
+                                "audiosrc": "engenn2le04ob02re2aud01",
+                                "coverimg": "engenn2le04ob02re2img05.jpg",
+                                "images": [
+                                    {
+                                        "time": "0",
+                                        "text": "",
+                                        "id": 0,
+                                        "image": "engenn2le04ob02re2img05.jpg"
+                                    },
+                                    {
+                                        "time": "100",
+                                        "text": "<span class=\"strong\"> Sally</span>:   Why don't we get something for dinner?<br />\n<span class=\"strong\"> John</span>: Hmmm ... Let's cook a meat dish.",
+                                        "id": 1,
+                                        "image": "engenn2le04ob02re2img05.jpg"
+                                    },
+                                    {
+                                        "time": "5200",
+                                        "text": "<span class=\"strong\"> Sally</span>:   Okay, chicken or beef?<br />\n<span class=\"strong\"> John</span>: I prefer chicken. <br />\n<span class=\"strong\"> Sally</span>:   I don't like chicken. I like beef.<br/><span class=\"strong\"> John</span>: Ok, beef is good, too.<br />",
+                                        "id": 2,
+                                        "image": "engenn2le04ob02re2img05.jpg"
+                                    },
+                                    {
+                                        "time": "17000",
+                                        "text": "<Span class=\"strong\"> Sally</span>:   We should make pasta. I have a recipe for a great pasta sauce! <br />\n<span class=\"strong\"> John</span>: Sounds good! What do we need?<br />",
+                                        "id": 3,
+                                        "image": "engenn2le04ob02re2img01.jpg"
+                                    },
+                                    {
+                                        "time": "25000",
+                                        "text": "<span class=\"strong\"> Sally</span>:   We need tomatoes. Those look fresh! I love fresh tomatoes!<br />\n<span class=\"strong\"> John</span>: Hmmm ... these look rotten! <br />\n<span class=\"strong\"> Sally</span>:   Yeah, we can get a jar of pasta sauce! They are in that aisle.",
+                                        "id": 4,
+                                        "image": "engenn2le04ob02re2img02.jpg"
+                                    },
+                                    {
+                                        "time": "38800",
+                                        "text": "<span class=\"strong\"> John</span>: Okay, this looks yummy! We should get it. <br />\n<span class=\"strong\"> Sally</span>: Sure. John, look at that cake. That looks delicious!",
+                                        "id": 5,
+                                        "image": "engenn2le04ob02re2img05.jpg"
+                                    }
+                                ]
+                            },
+                            "type": "slideshow"
+                        }
+                    ],
+                    "type": "audio",
+                    "_data": [
+
+                    ]
+                }
+            ],
+            "type": "scholar",
+            "exercises": [
+                {
+                    "stimuli_ids": [
+                        0
+                    ],
+                    "template_override": 1,
+                    "img_path": "",
+                    "id": 0,
+                    "questions": [
+
+                    ],
+                    "type": "WLC",
+                    "_data": [
+                        {
+                            "contents": [
+                                {
+                                    "type": "skill",
+                                    "content": "Listening"
+                                },
+                                {
+                                    "type": "skill",
+                                    "content": "Reading"
+                                },
+                                {
+                                    "type": "skill",
+                                    "content": "Vocabulary and Grammar"
+                                },
+                                {
+                                    "type": "Learning Outcomes",
+                                    "content": "I can say what I like and dislike. "
+                                },
+                                {
+                                    "type": "Learning Outcomes",
+                                    "content": "I can make suggestions."
+                                },
+                                {
+                                    "type": "Learning Outcomes",
+                                    "content": "I can express how far or how near objects are using <span class=\"italic\">this</span>, <span class=\"italic\">that</span>, <span class=\"italic\">these</span>, <span class=\"italic\">those</span>."
+                                },
+                                {
+                                    "type": "Free Header Item",
+                                    "content": "What do you like to eat? Why?"
+                                },
+                                {
+                                    "type": "Free Header Item",
+                                    "content": "What do you not like to eat? Why?"
+                                }
+                            ],
+                            "type": "instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "group_name",
+                                    "content": "Welcome"
+                                }
+                            ],
+                            "type": "group"
+                        },
+                        {
+                            "type": "feedback",
+                            "content": {
+                                "attempt_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "You have 2 tries"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "you have 1 attempt left"
+                                    }
+                                ],
+                                "correct_feedback": "Correct",
+                                "incorrect_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "try again"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "Maybe next time"
+                                    }
+                                ],
+                                "allowed_attempts": 2
+                            }
+                        },
+                        {
+                            "type": "free_header_text",
+                            "content": "Ask your partner:"
+                        },
+                        {
+                            "type": "free_type_text_area",
+                            "content": " Sally and John are at the supermarket! What's for dinner? "
+                        }
+                    ]
+                },
+                {
+                    "stimuli_ids": [
+                        1
+                    ],
+                    "template_override": 1,
+                    "id": 1,
+                    "questions": [
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ],
+                                    "type": "question"
+                                }
+                            ],
+                            "id": 0
+                        }
+                    ],
+                    "type": "STI",
+                    "_data": [
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Sally and John are walking down the supermarket <span class=\"tool-tip\" id=\"tip_1_0\">aisle</span>. What will they buy?"
+                                }
+                            ],
+                            "type": "instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "group_name",
+                                    "content": "Content"
+                                }
+                            ],
+                            "type": "group"
+                        },
+                        {
+                            "type": "feedback",
+                            "content": {
+                                "attempt_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "You have 2 tries."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "You have 1 attempt left."
+                                    }
+                                ],
+                                "correct_feedback": "Correct!",
+                                "incorrect_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "Try again."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "Maybe next time…"
+                                    }
+                                ],
+                                "allowed_attempts": 2
+                            }
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Instructions: Click on the play button to listen to the audio."
+                                }
+                            ],
+                            "type": "post_instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "skill",
+                                    "content": "Listening"
+                                },
+                                {
+                                    "type": "skill",
+                                    "content": "Reading"
+                                }
+                            ],
+                            "type": "learning_skills"
+                        },
+                        {
+                            "type": "tips",
+                            "content": [
+                                {
+                                    "tip_id": 0,
+                                    "type": "text",
+                                    "content": "The pathway between the rows in the supermarket."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "stimuli_ids": [
+
+                    ],
+                    "template_override": 1,
+                    "id": 2,
+                    "questions": [
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Why don't "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Let's go "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "text": "",
+                                    "id": 2,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Why don't we"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": "_______    get something for dinner?"
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_1"
+                                }
+                            ],
+                            "id": 0
+                        },
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "should "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "let's "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "text": "",
+                                    "id": 2,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "maybe"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": "We ______ make pasta."
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_1"
+                                }
+                            ],
+                            "id": 1
+                        },
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "let's "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "can "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "text": "",
+                                    "id": 2,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "are"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": "We _____ get a jar of pasta sauce. "
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_1"
+                                }
+                            ],
+                            "id": 2
+                        }
+                    ],
+                    "type": "DMC",
+                    "_data": [
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Can you spot the suggestions in the dialogue? Let's find out!"
+                                }
+                            ],
+                            "type": "instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "group_name",
+                                    "content": "Activity 1"
+                                }
+                            ],
+                            "type": "group"
+                        },
+                        {
+                            "type": "feedback",
+                            "content": {
+                                "attempt_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": ""
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": ""
+                                    }
+                                ],
+                                "correct_feedback": "Correct!",
+                                "incorrect_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "Whoops! Something important is missing."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "Maybe next time…"
+                                    }
+                                ],
+                                "allowed_attempts": 2
+                            }
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Instructions: Select the correct answer. "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "You have 2 attempts to submit your answers."
+                                }
+                            ],
+                            "type": "post_instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "skill",
+                                    "content": "Reading"
+                                }
+                            ],
+                            "type": "learning_skills"
+                        }
+                    ]
+                },
+                {
+                    "stimuli_ids": [
+
+                    ],
+                    "template_override": 1,
+                    "id": 3,
+                    "questions": [
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Those"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": "The tomatoes over there look fresh. "
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "contents": {
+                                        "type": "",
+                                        "content": "look fresh."
+                                    },
+                                    "type": "post_question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_3"
+                                }
+                            ],
+                            "id": 0
+                        },
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "These"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": "The tomatoes here look rotten. "
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "contents": {
+                                        "type": "",
+                                        "content": "look rotten!"
+                                    },
+                                    "type": "post_question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_3"
+                                }
+                            ],
+                            "id": 1
+                        },
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "that"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": "Look at the cake over there! Look at "
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "contents": {
+                                        "type": "",
+                                        "content": "!"
+                                    },
+                                    "type": "post_question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_3"
+                                }
+                            ],
+                            "id": 2
+                        },
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "This"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "text": "",
+                                    "id": 2,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "those"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": "This cake here looks delicious! "
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "contents": {
+                                        "type": "",
+                                        "content": "looks delicious!"
+                                    },
+                                    "type": "post_question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_3"
+                                }
+                            ],
+                            "id": 3
+                        }
+                    ],
+                    "type": "SFL",
+                    "_data": [
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "This or that? These or those? You decide!"
+                                }
+                            ],
+                            "type": "instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "group_name",
+                                    "content": "Activity 3"
+                                }
+                            ],
+                            "type": "group"
+                        },
+                        {
+                            "type": "feedback",
+                            "content": {
+                                "attempt_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": ""
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": ""
+                                    }
+                                ],
+                                "correct_feedback": "Correct!",
+                                "incorrect_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "Whoops! Something important is missing."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "Maybe next time…"
+                                    }
+                                ],
+                                "allowed_attempts": 2
+                            }
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Instructions: Move the words from the box to correctly complete the sentences. "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "You have 2 attempts to submit your answers."
+                                }
+                            ],
+                            "type": "post_instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "skill",
+                                    "content": "Reading"
+                                }
+                            ],
+                            "type": "learning_skills"
+                        }
+                    ]
+                },
+                {
+                    "stimuli_ids": [
+
+                    ],
+                    "template_override": 1,
+                    "id": 4,
+                    "questions": [
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Doesn't like chicken "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "text": "",
+                                    "id": 2,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Likes beef "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "text": "",
+                                    "id": 3,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Loves pasta with meat sauce "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "text": "",
+                                    "id": 4,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Loves to find new recipes"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": "Sally"
+                                        },
+                                        {
+                                            "type": "audio",
+                                            "content": "engenn2le04ob02re4aud01"
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_2"
+                                }
+                            ],
+                            "id": 0
+                        },
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Prefers chicken "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "text": "",
+                                    "id": 2,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Likes beef, too "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "text": "",
+                                    "id": 3,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Doesn't like to cook"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": "John"
+                                        },
+                                        {
+                                            "type": "audio",
+                                            "content": "engenn2le04ob02re4aud02"
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_2"
+                                }
+                            ],
+                            "id": 1
+                        }
+                    ],
+                    "type": "DFL",
+                    "_data": [
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Who likes chicken? Sally or John?"
+                                }
+                            ],
+                            "type": "instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "group_name",
+                                    "content": "Activity 2"
+                                }
+                            ],
+                            "type": "group"
+                        },
+                        {
+                            "type": "feedback",
+                            "content": {
+                                "attempt_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": ""
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": ""
+                                    }
+                                ],
+                                "correct_feedback": "Correct!",
+                                "incorrect_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "Whoops! Something important is missing."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "Maybe next time…"
+                                    }
+                                ],
+                                "allowed_attempts": 2
+                            }
+                        },
+                        {
+                            "type": "DFL_background_image",
+                            "content": ""
+                        },
+                        {
+                            "type": "exercise_background_image",
+                            "content": ""
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "skill",
+                                    "content": "Listening"
+                                },
+                                {
+                                    "type": "skill",
+                                    "content": "Reading"
+                                }
+                            ],
+                            "type": "learning_skills"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Instructions: Listen to the audio. Click on the words and move them into the correct category. "
+                                },
+                                {
+                                    "type": "text",
+                                    "content": "You have 2 attempts to submit your answers."
+                                }
+                            ],
+                            "type": "post_instructions"
+                        }
+                    ]
+                },
+                {
+                    "stimuli_ids": [
+
+                    ],
+                    "template_override": 1,
+                    "id": 5,
+                    "questions": [
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "I love fresh tomatoes! "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Where is the lasagna? "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "text": "",
+                                    "id": 2,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "We should order Chinese food."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": " What does she say?"
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_4"
+                                }
+                            ],
+                            "id": 0
+                        }
+                    ],
+                    "type": "DMC",
+                    "_data": [
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Lily makes a suggestion."
+                                }
+                            ],
+                            "type": "instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "group_name",
+                                    "content": "Quiz"
+                                }
+                            ],
+                            "type": "group"
+                        },
+                        {
+                            "type": "feedback",
+                            "content": {
+                                "attempt_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "You have 2 tries."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "You have 1 attempt left."
+                                    }
+                                ],
+                                "correct_feedback": "Correct!",
+                                "incorrect_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "Try again."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "Maybe next time…"
+                                    }
+                                ],
+                                "allowed_attempts": 2
+                            }
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Instructions: Select the correct answer."
+                                }
+                            ],
+                            "type": "post_instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "pre_quiz",
+                                    "content": "BLANK"
+                                }
+                            ],
+                            "type": "pre_screen"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "skill",
+                                    "content": "Reading"
+                                }
+                            ],
+                            "type": "learning_skills"
+                        }
+                    ]
+                },
+                {
+                    "stimuli_ids": [
+
+                    ],
+                    "template_override": 1,
+                    "id": 6,
+                    "questions": [
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": true,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Why don't we get something for lunch? "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "text": "",
+                                    "id": 1,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "I prefer chicken. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "text": "",
+                                    "id": 2,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Sounds good! "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "text": "",
+                                    "id": 3,
+                                    "correct": true,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "We should make roast beef. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "text": "",
+                                    "id": 4,
+                                    "correct": true,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "We could get a jar of cranberry sauce."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": "Select all the suggestions."
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_5"
+                                }
+                            ],
+                            "id": 0
+                        }
+                    ],
+                    "type": "MMM",
+                    "_data": [
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Patricia makes suggestions."
+                                }
+                            ],
+                            "type": "instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "group_name",
+                                    "content": "Quiz"
+                                }
+                            ],
+                            "type": "group"
+                        },
+                        {
+                            "type": "feedback",
+                            "content": {
+                                "attempt_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "You have 2 tries."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "You have 1 attempt left."
+                                    }
+                                ],
+                                "correct_feedback": "Correct!",
+                                "incorrect_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "Try again."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "Maybe next time…"
+                                    }
+                                ],
+                                "allowed_attempts": 2
+                            }
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Instructions: Select all the correct answers. "
+                                }
+                            ],
+                            "type": "post_instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "skill",
+                                    "content": "Reading"
+                                }
+                            ],
+                            "type": "learning_skills"
+                        }
+                    ]
+                },
+                {
+                    "stimuli_ids": [
+
+                    ],
+                    "template_override": 1,
+                    "id": 7,
+                    "questions": [
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "This"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "These"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "contents": {
+                                        "type": "",
+                                        "content": " carrot is dirty."
+                                    },
+                                    "type": "post_question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_6"
+                                }
+                            ],
+                            "id": 0
+                        },
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "That"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Those"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "contents": {
+                                        "type": "",
+                                        "content": "pie looks amazing!"
+                                    },
+                                    "type": "post_question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_6"
+                                }
+                            ],
+                            "id": 1
+                        }
+                    ],
+                    "type": "MRW",
+                    "_data": [
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Chelsea is at the supermarket. What does she say?"
+                                }
+                            ],
+                            "type": "instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "group_name",
+                                    "content": "Quiz"
+                                }
+                            ],
+                            "type": "group"
+                        },
+                        {
+                            "type": "feedback",
+                            "content": {
+                                "attempt_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "You have 2 tries."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "You have 1 attempt left."
+                                    }
+                                ],
+                                "correct_feedback": "Correct!",
+                                "incorrect_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "Try again."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "Maybe next time…"
+                                    }
+                                ],
+                                "allowed_attempts": 2
+                            }
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Instructions: Click on the correct word to complete the sentence. "
+                                }
+                            ],
+                            "type": "post_instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "skill",
+                                    "content": "Reading"
+                                }
+                            ],
+                            "type": "learning_skills"
+                        }
+                    ]
+                },
+                {
+                    "stimuli_ids": [
+
+                    ],
+                    "template_override": 1,
+                    "id": 8,
+                    "questions": [
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "true"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "false"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "audio",
+                                            "content": "engenn2le04ob02re6aud03"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "content": "She hates beef. "
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_7"
+                                }
+                            ],
+                            "id": 0
+                        },
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "true"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "false"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "audio",
+                                            "content": "engenn2le04ob02re6aud04"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "content": "She doesn't like fresh tomatoes. "
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_7"
+                                }
+                            ],
+                            "id": 1
+                        }
+                    ],
+                    "type": "CHW",
+                    "_data": [
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Chelsea and Tom talk about food. "
+                                }
+                            ],
+                            "type": "instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "group_name",
+                                    "content": "Quiz"
+                                }
+                            ],
+                            "type": "group"
+                        },
+                        {
+                            "type": "feedback",
+                            "content": {
+                                "attempt_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "You have 2 tries."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "You have 1 attempt left."
+                                    }
+                                ],
+                                "correct_feedback": "Correct!",
+                                "incorrect_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "Try again."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "Maybe next time…"
+                                    }
+                                ],
+                                "allowed_attempts": 2
+                            }
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Instructions: <span class=\"bullet\">Listen to the audio.</span> <span class=\"bullet\">Click on TRUE if the statement is true.</span> <span class=\"bullet\">Click on FALSE if the statement if false. </span>"
+                                }
+                            ],
+                            "type": "post_instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "skill",
+                                    "content": "Reading"
+                                },
+                                {
+                                    "type": "skill",
+                                    "content": "Listening"
+                                }
+                            ],
+                            "type": "learning_skills"
+                        }
+                    ]
+                },
+                {
+                    "stimuli_ids": [
+
+                    ],
+                    "template_override": 1,
+                    "id": 9,
+                    "questions": [
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "These"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "audio",
+                                            "content": "engenn2le04ob02re6aud05"
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": "Those"
+                                        }
+                                    ],
+                                    "type": "incorrect"
+                                },
+                                {
+                                    "contents": {
+                                        "type": "",
+                                        "content": "look fresh! "
+                                    },
+                                    "type": "post_question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_8"
+                                }
+                            ],
+                            "id": 0
+                        },
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": "Those"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "audio",
+                                            "content": "engenn2le04ob02re6aud06"
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": "These"
+                                        }
+                                    ],
+                                    "type": "incorrect"
+                                },
+                                {
+                                    "contents": {
+                                        "type": "",
+                                        "content": " look rotten!"
+                                    },
+                                    "type": "post_question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_8"
+                                }
+                            ],
+                            "id": 1
+                        }
+                    ],
+                    "type": "GIW",
+                    "_data": [
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "These tomatoes or those ones?"
+                                }
+                            ],
+                            "type": "instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "group_name",
+                                    "content": "Quiz"
+                                }
+                            ],
+                            "type": "group"
+                        },
+                        {
+                            "type": "feedback",
+                            "content": {
+                                "attempt_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "You have 2 tries."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "You have 1 attempt left."
+                                    }
+                                ],
+                                "correct_feedback": "Correct!",
+                                "incorrect_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "Try again."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "Maybe next time…"
+                                    }
+                                ],
+                                "allowed_attempts": 2
+                            }
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Instructions: <span class=\"bullet\">Listen to the audio. </span><span class=\"bullet\">Proofread the sentence. </span><span class=\"bullet\">Click on the incorrect word.</span> <span class=\"bullet\">Type in the correct word to complete the sentence.</span><span class=\"bullet\">Use capital letters where necessary.</span>"
+                                }
+                            ],
+                            "type": "post_instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "skill",
+                                    "content": "Listening"
+                                },
+                                {
+                                    "type": "skill",
+                                    "content": "Reading"
+                                }
+                            ],
+                            "type": "learning_skills"
+                        }
+                    ]
+                },
+                {
+                    "stimuli_ids": [
+
+                    ],
+                    "template_override": 1,
+                    "id": 10,
+                    "questions": [
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 0,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "selected": 0,
+                                    "id": 1,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ],
+                                    "type": "question"
+                                }
+                            ],
+                            "id": 0
+                        }
+                    ],
+                    "type": "RSLT",
+                    "_data": [
+                        {
+                            "contents": [
+
+                            ],
+                            "type": "instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "group_name",
+                                    "content": "Quiz"
+                                }
+                            ],
+                            "type": "group"
+                        },
+                        {
+                            "type": "feedback",
+                            "content": {
+                                "attempt_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "You have 2 tries."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "You have 1 attempt left."
+                                    }
+                                ],
+                                "correct_feedback": "Correct!",
+                                "incorrect_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "Try again."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "Maybe next time…"
+                                    }
+                                ],
+                                "allowed_attempts": 2
+                            }
+                        }
+                    ]
+                },
+                {
+                    "stimuli_ids": [
+
+                    ],
+                    "template_override": 1,
+                    "id": 11,
+                    "questions": [
+                        {
+                            "responses": [
+                                {
+                                    "selected": 0,
+                                    "id": 0,
+                                    "correct": 1,
+                                    "_data": [
+                                        {
+                                            "type": "text",
+                                            "content": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "_data": [
+                                {
+                                    "contents": [
+                                        {
+                                            "type": "pdf",
+                                            "content": "engenn2le04ob02re7pdf01.pdf"
+                                        }
+                                    ],
+                                    "type": "question"
+                                },
+                                {
+                                    "type": "objective",
+                                    "content": "secondary_9"
+                                }
+                            ],
+                            "id": 0
+                        }
+                    ],
+                    "type": "DWS",
+                    "_data": [
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Let's make dinner."
+                                }
+                            ],
+                            "type": "instructions"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "group_name",
+                                    "content": "Take Away"
+                                }
+                            ],
+                            "type": "group"
+                        },
+                        {
+                            "type": "feedback",
+                            "content": {
+                                "attempt_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "You have 2 tries."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "You have 1 attempt left."
+                                    }
+                                ],
+                                "correct_feedback": "Correct!",
+                                "incorrect_feedback": [
+                                    {
+                                        "type": "text",
+                                        "content": "Try again."
+                                    },
+                                    {
+                                        "type": "text",
+                                        "content": "Maybe next time…"
+                                    }
+                                ],
+                                "allowed_attempts": 2
+                            }
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "skill",
+                                    "content": "Speaking"
+                                },
+                                {
+                                    "type": "skill",
+                                    "content": "Writing"
+                                },
+                                {
+                                    "type": "skill",
+                                    "content": "Reading"
+                                }
+                            ],
+                            "type": "learning_skills"
+                        },
+                        {
+                            "contents": [
+                                {
+                                    "type": "text",
+                                    "content": "Instructions: Complete the following steps. Fill in the Self-Assessment. "
+                                }
+                            ],
+                            "type": "post_instructions"
+                        }
+                    ]
+                }
+            ],
+            "id": 0,
+            "_data": [
+                {
+                    "contents": [
+                        {
+                            "type": "has_nav",
+                            "content": true
+                        },
+                        {
+                            "type": "has_exercise_controls",
+                            "content": true
+                        }
+                    ],
+                    "type": "lab_options"
+                }
+            ]
+        }
+    ],
+    "type": "sena",
+    "_data": [
+        {
+            "contents": [
+                {
+                    "type": "lesson_name",
+                    "content": "At the Supermarket"
+                },
+                {
+                    "type": "unit_name",
+                    "content": "What Do You Recommend? "
+                },
+                {
+                    "type": "position",
+                    "content": 2
+                },
+                {
+                    "type": "origin",
+                    "content": "scholar > Daily Life >  Food and Drink"
+                },
+                {
+                    "type": "lesson",
+                    "content": 4
+                },
+                {
+                    "type": "level",
+                    "content": "A1.1"
+                }
+            ],
+            "type": "metadata"
+        },
+        {
+            "contents": [
+                {
+                    "type": "test",
+                    "content": "false"
+                }
+            ],
+            "type": "achievment_test"
+        },
+        {
+            "contents": [
+                {
+                    "type": "primary",
+                    "content": "Accurately exchange information about buying things in communicative situations."
+                },
+                {
+                    "type": "secondary_1",
+                    "content": "Understands key information in written texts about the communicative topics related to this level."
+                },
+                {
+                    "type": "secondary_2",
+                    "content": "Understands simple information in slow conversations about the communicative topics and vocabulary related to this level"
+                },
+                {
+                    "type": "secondary_3",
+                    "content": "Understands key information in written texts about the communicative topics related to this level."
+                },
+                {
+                    "type": "secondary_4",
+                    "content": "Understands key information in written texts about the communicative topics related to this level."
+                },
+                {
+                    "type": "secondary_5",
+                    "content": "Understands simple information in slow conversations about the communicative topics and vocabulary related to this level."
+                },
+                {
+                    "type": "secondary_6",
+                    "content": "Understands key information in written texts about the communicative topics related to this level."
+                },
+                {
+                    "type": "secondary_7",
+                    "content": "Understands simple information in slow conversations about the communicative topics and vocabulary related to this level. "
+                },
+                {
+                    "type": "secondary_8",
+                    "content": "Understands key information in written texts about the communicative topics related to this level."
+                }
+            ],
+            "type": "objectives"
+        },
+        {
+            "contents": [
+                {
+                    "type": "name",
+                    "content": "to cook "
+                },
+                {
+                    "type": "definition",
+                    "content": "to prepare food to eat "
+                },
+                {
+                    "type": "part_speech",
+                    "content": "(verb)"
+                },
+                {
+                    "type": "example",
+                    "content": "Example: Let's cook dinner."
+                },
+                {
+                    "type": "audio",
+                    "content": "engenn2le04ob02aud01"
+                }
+            ],
+            "type": "target_word"
+        },
+        {
+            "contents": [
+                {
+                    "type": "text",
+                    "content": "These are words you use when you buy groceries. "
+                }
+            ],
+            "type": "target_word_describer"
+        },
+        {
+            "contents": [
+                {
+                    "type": "name",
+                    "content": "dinner "
+                },
+                {
+                    "type": "definition",
+                    "content": "the last meal of the day "
+                },
+                {
+                    "type": "part_speech",
+                    "content": "(noun)"
+                },
+                {
+                    "type": "example",
+                    "content": "Example: What do you want to eat for dinner?"
+                },
+                {
+                    "type": "audio",
+                    "content": "engenn2le04ob02aud02"
+                }
+            ],
+            "type": "target_word"
+        },
+        {
+            "contents": [
+                {
+                    "type": "name",
+                    "content": "dish "
+                },
+                {
+                    "type": "definition",
+                    "content": " food that is prepared in a certain way "
+                },
+                {
+                    "type": "part_speech",
+                    "content": "(noun)"
+                },
+                {
+                    "type": "example",
+                    "content": "Example: Let's make a meat dish."
+                },
+                {
+                    "type": "audio",
+                    "content": "engenn2le04ob02aud03"
+                }
+            ],
+            "type": "target_word"
+        },
+        {
+            "contents": [
+                {
+                    "type": "name",
+                    "content": "pasta"
+                },
+                {
+                    "type": "definition",
+                    "content": "a food made from flour, eggs and water  "
+                },
+                {
+                    "type": "part_speech",
+                    "content": "(noun)"
+                },
+                {
+                    "type": "example",
+                    "content": "Example: We should make pasta for dinner."
+                },
+                {
+                    "type": "audio",
+                    "content": "engenn2le04ob02aud04"
+                }
+            ],
+            "type": "target_word"
+        },
+        {
+            "contents": [
+                {
+                    "type": "name",
+                    "content": "chicken "
+                },
+                {
+                    "type": "definition",
+                    "content": "meat from a bird "
+                },
+                {
+                    "type": "part_speech",
+                    "content": "(noun)"
+                },
+                {
+                    "type": "example",
+                    "content": "Example: I prefer chicken."
+                },
+                {
+                    "type": "audio",
+                    "content": "engenn2le04ob02aud05"
+                }
+            ],
+            "type": "target_word"
+        },
+        {
+            "contents": [
+                {
+                    "type": "name",
+                    "content": "beef "
+                },
+                {
+                    "type": "definition",
+                    "content": "meat from a cow "
+                },
+                {
+                    "type": "part_speech",
+                    "content": "(noun)"
+                },
+                {
+                    "type": "example",
+                    "content": "Example: Beef is good too."
+                },
+                {
+                    "type": "audio",
+                    "content": "engenn2le04ob02aud06"
+                }
+            ],
+            "type": "target_word"
+        },
+        {
+            "contents": [
+                {
+                    "type": "name",
+                    "content": "recipe "
+                },
+                {
+                    "type": "definition",
+                    "content": "a set of instructions you use to make a certain dish "
+                },
+                {
+                    "type": "part_speech",
+                    "content": "(noun) "
+                },
+                {
+                    "type": "example",
+                    "content": "Example: I have a recipe for a pasta sauce!"
+                },
+                {
+                    "type": "audio",
+                    "content": "engenn2le04ob02aud07"
+                }
+            ],
+            "type": "target_word"
+        },
+        {
+            "contents": [
+                {
+                    "type": "name",
+                    "content": "rotten "
+                },
+                {
+                    "type": "definition",
+                    "content": "no longer able to eat "
+                },
+                {
+                    "type": "part_speech",
+                    "content": "(adjective)"
+                },
+                {
+                    "type": "example",
+                    "content": "Example: These tomatoes are rotten!"
+                },
+                {
+                    "type": "audio",
+                    "content": "engenn2le04ob02aud08"
+                }
+            ],
+            "type": "target_word"
+        },
+        {
+            "contents": [
+                {
+                    "type": "heading",
+                    "content": "Demonstrative Pronouns"
+                },
+                {
+                    "type": "describer",
+                    "content": "You use demonstrative pronouns to replace people or things. A demonstrative pronoun tells you if something is singular or plural and if the thing(s) is near or far."
+                },
+                {
+                    "type": "table",
+                    "content": "{\"rows\":\"03\",\"columns\":\"04\",\"cells\":[\"\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"<span class=\\\"strong\\\">Singular </span>\\\"}\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"<span class=\\\"strong\\\">Plural </span>\\\"}\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"<span class=\\\"strong\\\">Examples </span>\\\"}\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"<span class=\\\"strong\\\"> Near</span>\\\"}\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"This\\\"}\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"These\\\"}\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"<span class=\\\"italic\\\">This is delicious!<br />These are yummy! </span>\\\"}\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"<span class=\\\"strong\\\"> Far</span>\\\"}\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"That\\\"}\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"Those\\\"}\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"<span class=\\\"italic\\\">You can smell that from here! <br />I want those. </span>\\\"}\"],\"styles\":\" instruction_table_background intro_table_border\"}"
+                }
+            ],
+            "type": "learning_points"
+        },
+        {
+            "contents": [
+                {
+                    "type": "heading",
+                    "content": "Making Suggestions"
+                },
+                {
+                    "type": "describer",
+                    "content": "When you ask for a suggestion, the answer can be casual or polite. "
+                },
+                {
+                    "type": "table",
+                    "content": "{\"rows\":\"02\",\"columns\":\"03\",\"cells\":[\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"Casual\\\"}\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"Polite\\\"}\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"Examples\\\"}\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"How about&nbsp;...&nbsp;? <br />How do you feel about&nbsp;...&nbsp;? <br />You/We can&nbsp;...<br />You/We should&nbsp;...<br />Why don't&nbsp;...&nbsp;?\\\"}\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"What would you think of&nbsp;...&nbsp;? <br />You/We could ... <br />I suggest ...\\\"}\",\"{\\\"type\\\": \\\"text\\\", \\\"content\\\": \\\"<span class=\\\"italic\\\">How about we get those? <br />We should get that! <br />Why don't you try this? <br />It's delicious! </span>\\\"}\"],\"styles\":\" intro_table_border instruction_table_background\"}"
+                }
+            ],
+            "type": "learning_points"
+        },
+        {
+            "type": "background_image",
+            "content": "engenn2le04ob02re1img01.jpg"
+        },
+        {
+            "contents": [
+                {
+                    "type": "text",
+                    "content": "Decide with your partner what to make for dinner."
+                },
+                {
+                    "type": "text",
+                    "content": "Write a dialogue together (6-8 lines) about it."
+                },
+                {
+                    "type": "text",
+                    "content": "Include what you like and don't like to eat."
+                },
+                {
+                    "type": "text",
+                    "content": "Make a suggestion about what to make."
+                },
+                {
+                    "type": "text",
+                    "content": "Practice reading the dialogue aloud with your partner."
+                }
+            ],
+            "type": "takeaway_extension"
+        },
+        {
+            "contents": [
+                {
+                    "type": "text",
+                    "content": "I talk about what to make for dinner."
+                },
+                {
+                    "type": "text",
+                    "content": "I make suggestions about food."
+                },
+                {
+                    "type": "text",
+                    "content": "I talk about foods I like and dislike."
+                }
+            ],
+            "type": "takeaway_assessment"
+        }
+    ]
+}
